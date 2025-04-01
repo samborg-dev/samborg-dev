@@ -21,8 +21,8 @@
   <br>
 </div>
 
-- 🌱 I’m currently learning: The T3 Stack
-- 💻 I’m currently working on: Chess.com Clone for Mancala
+- 🌱 I’m currently learning: Hashmaps in C!
+- 💻 I’m currently working on: Forge for Knight Hacks!
 - 🌎 I'm based in Orlando, FL!
 
 <hr>
