@@ -18,14 +18,8 @@
   <h2>
     Computer Science Student @ UCF 
   </h2>
-  <br>
 </div>
 
-- 🌱 I’m currently learning: Hashmaps in C!
-- 💻 I’m currently working on: Forge for Knight Hacks!
-- 🌎 I'm based in Orlando, FL!
-
-<hr>
 
 Languages & Tools:
 <div>
@@ -75,6 +69,3 @@ Languages & Tools:
   <br>
 </div>
 
-![samborg-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samborg-dev&theme=nightowl&show_icons=true&hide_border=true&layout=compact) 
-
-![samborg-dev's Stats](https://github-readme-stats.vercel.app/api?username=samborg-dev&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
